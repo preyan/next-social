@@ -1,4 +1,9 @@
-# Next Social
+# NEXT SOCIAL
+
+[![Next.js](https://img.shields.io/badge/Next.js-15-blue)](https://nextjs.org/)
+[![Clerk](https://img.shields.io/badge/Clerk-authentication-orange)](https://clerk.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-styling-blueviolet)](https://tailwindcss.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-database-brightgreen)](https://www.postgresql.org/)
 
 Next Social is a social media app built with Next.js 15, Server Actions, Clerk, Tailwind, and PostgreSQL. This project aims to provide users with a modern and interactive social media experience.
 
